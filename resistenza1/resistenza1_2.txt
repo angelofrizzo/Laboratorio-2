@@ -1,0 +1,25 @@
+DSO VERTICAL SYSTEM 
+CHANNEL 1 
+Scale(V/div): 5.000000e-01 
+Coupling: DC 
+Impedance(Ohm): 1M 
+Probe Ratio: 1X 
+CHANNEL 2 
+Scale(V/div): 5.000000e-01 
+Coupling: DC 
+Impedance(Ohm): 1M 
+Probe Ratio: 1X 
+
+DSO HORIZONTAL SYSTEM 
+Time Scale(s/div): 1.000000e-05 
+Time Offset(s): 4.412000e-04 
+
+DSO ACQUIRE SYSTEM 
+Acquire Type: NORM 
+Sampling Rate(Sa/s): 1.00000e+09 
+
+DSO TRIGGER SYSTEM 
+Sweep: NORM 
+Type: EDGE 
+Source: EXT 
+Level(V): 3.820000e-01 
